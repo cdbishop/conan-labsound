@@ -1,2 +1,2 @@
 # conan-labsound
-Conan recipe for LabSound - a modern C++ graph-based audio engine
+a [conan](https://conan.io/) recipe for [LabSound](https://github.com/LabSound/LabSound)
